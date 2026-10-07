@@ -1,0 +1,48 @@
+{
+  "id": "cottonfall-missing-resident",
+  "title": "Cottonfall: The Missing Resident",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "David Berkompas",
+      "email": "david.berkompas@gmail.com",
+      "url": "https://www.n5ba.net",
+      "discord": "BoomerET",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "cottonfall-adventure",
+      "label": "Cottonfall: The Missing Resident",
+      "path": "packs/cottonfall-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "gurps",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "gurps",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "An investigative horror adventure set in Cottonfall, Texas.",
+  "url": "https://github.com/BoomerET/cottonfall-missing-resident",
+  "manifest": "https://raw.githubusercontent.com/BoomerET/cottonfall-missing-resident/main/module.json"
+}
+
