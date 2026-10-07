@@ -43,5 +43,6 @@
   },
   "description": "An investigative horror adventure set in Cottonfall, Texas.",
   "url": "https://github.com/BoomerET/cottonfall-missing-resident",
-  "manifest": "https://raw.githubusercontent.com/BoomerET/cottonfall-missing-resident/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/BoomerET/cottonfall-missing-resident/main/module.json",
+  "download": "https://github.com/BoomerET/cottonfall-missing-resident/releases/download/v0.1.0/cottonfall-missing-resident-v0.1.0.zip"
 }
