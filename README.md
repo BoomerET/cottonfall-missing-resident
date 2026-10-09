@@ -1,6 +1,6 @@
 # UPDATED: 
 ** https://github.com/BoomerET/cottonfall
-*Contains both the adventure module and the FX module
+**Contains both the adventure module and the FX module
 
 # Cottonfall: The Missing Resident
 
