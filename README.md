@@ -1,3 +1,6 @@
+# UPDATED: 
+** https://github.com/BoomerET/cottonfall
+
 # Cottonfall: The Missing Resident
 
 **An investigative horror adventure for GURPS and Foundry Virtual Tabletop**
